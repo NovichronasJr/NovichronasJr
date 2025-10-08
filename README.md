@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://komarev.com/ghpvc/?username=NovichronasJr">
-  <img src="https://komarev.com/ghpvc/?username=NovichronasJr&style=flat-square&color=blueviolet" alt="Profile views"/>
+<a href="https://komarev.com/ghpvc/?NovichronasJr=NovichronasJr">
+  <img src="https://komarev.com/ghpvc/?NovichronasJr=NovichronasJr&style=flat-square&color=blueviolet" alt="Profile views"/>
 </a>
 
 <br>
 <br>
 
 <h1>
-  Hi there, I'm YOUR_NAME 👋
+  Hi there, I'm Amit Panicker 👋
 </h1>
 
 <h3>A Full-Stack Developer with a passion for Cybersecurity and Data Science</h3>
@@ -101,10 +101,10 @@ I'm a passionate MERN Stack Developer skilled in building robust and scalable we
 
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?NovichronasJr=YOUR_GITHUB_NovichronasJr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?NovichronasJr=YOUR_GITHUB_NovichronasJr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_NovichronasJr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -143,10 +143,10 @@ I'm a passionate MERN Stack Developer skilled in building robust and scalable we
   <h2>📫 Let's Connect!</h2>
   <p>I'm always open to collaborating on projects or discussing new ideas. Feel free to reach out!</p>
   <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <a href="https://github.com/YOUR_GITHUB_NovichronasJr" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_NovichronasJr" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:YOUR_EMAIL_ADDRESS">
