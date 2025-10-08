@@ -109,34 +109,6 @@ I'm a passionate MERN Stack Developer skilled in building robust and scalable we
 
 ---
 
-## 🚀 My Featured Projects
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Project Title 1</h3>
-      <p>A short, compelling description of your project. Explain the problem it solves and its main features. Keep it concise and impactful.</p>
-      <p>
-        <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB
-      </p>
-      <p>
-        <a href="#"><strong>View Code →</strong></a> &nbsp;&nbsp;
-        <a href="#"><strong>Live Demo →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Project Title 2</h3>
-      <p>A short, compelling description of your project. Explain the problem it solves and its main features. Keep it concise and impactful.</p>
-      <p>
-        <strong>Tech Stack:</strong> Next.js, Spring Boot, MySQL, Vercel
-      </p>
-      <p>
-        <a href="#"><strong>View Code →</strong></a> &nbsp;&nbsp;
-        <a href="#"><strong>Live Demo →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <div align="center">
