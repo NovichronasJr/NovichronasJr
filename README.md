@@ -27,8 +27,8 @@ I'm a passionate MERN Stack Developer skilled in building robust and scalable we
 
 <div align="center">
   <h2>🏆 My Digital Trophy Case</h2>
-  <a href="https://holopin.io/@YOUR_HOLOPIN_USERNAME">
-    <img src="https://holopin.io/api/user/board?user=YOUR_HOLOPIN_USERNAME" alt="@YOUR_HOLOPIN_USERNAME's Holopin board" />
+  <a href="https://holopin.io/@novichronasjr">
+    <img src="https://holopin.io/api/user/board?user=novichronasjr" alt="@novichronasjr's Holopin board" />
   </a>
 </div>
 
