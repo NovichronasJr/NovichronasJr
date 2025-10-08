@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile views"/>
+<a href="https://komarev.com/ghpvc/?username=NovichronasJr">
+  <img src="https://komarev.com/ghpvc/?username=NovichronasJr&style=flat-square&color=blueviolet" alt="Profile views"/>
 </a>
 
 <br>
