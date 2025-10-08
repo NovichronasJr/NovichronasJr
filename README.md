@@ -101,10 +101,10 @@ I'm a passionate MERN Stack Developer skilled in building robust and scalable we
 
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?NovichronasJr=YOUR_GITHUB_NovichronasJr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?NovichronasJr=YOUR_GITHUB_NovichronasJr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?NovichronasJr=NovichronasJr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?NovichronasJr=NovichronasJr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_NovichronasJr&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NovichronasJr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -115,13 +115,13 @@ I'm a passionate MERN Stack Developer skilled in building robust and scalable we
   <h2>📫 Let's Connect!</h2>
   <p>I'm always open to collaborating on projects or discussing new ideas. Feel free to reach out!</p>
   <p>
-    <a href="https://github.com/YOUR_GITHUB_NovichronasJr" target="_blank">
+    <a href="https://github.com/NovichronasJr" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_NovichronasJr" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <a href="mailto:amitpanicker2004@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="YOUR_PORTFOLIO_URL" target="_blank">
