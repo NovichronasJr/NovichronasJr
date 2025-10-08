@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://komarev.com/ghpvc/?NovichronasJr=NovichronasJr">
+<a href="https://komarev.com/ghpvc/?username=NovichronasJr">
   <img src="https://komarev.com/ghpvc/?NovichronasJr=NovichronasJr&style=flat-square&color=blueviolet" alt="Profile views"/>
 </a>
 
