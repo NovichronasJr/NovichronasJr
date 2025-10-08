@@ -98,15 +98,13 @@ I'm a passionate MERN Stack Developer skilled in building robust and scalable we
 </p>
 
 ---
-
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?NovichronasJr=NovichronasJr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?NovichronasJr=NovichronasJr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NovichronasJr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovichronasJr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NovichronasJr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---
 
 ---
