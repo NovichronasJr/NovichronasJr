@@ -27,9 +27,12 @@ I'm a passionate MERN Stack Developer skilled in building robust and scalable we
 
 <div align="center">
   <h2>🏆 My Digital Trophy Case</h2>
-  <a href="https://holopin.io/@novichronasjr">
-    <img src="https://holopin.io/api/user/board?user=novichronasjr" alt="@novichronasjr's Holopin board" />
-  </a>
+  <a href="https://komarev.com/ghpvc/?username=NovichronasJr">
+  <img src="https://komarev.com/ghpvc/?username=NovichronasJr&style=flat-square&color=blueviolet" alt="Profile views"/>
+</a>
+
+[![@NovichronasJr's Holopin board](https://holopin.me/novichronasjr)](https://holopin.io/@novichronasjr)
+
 </div>
 
 ---
