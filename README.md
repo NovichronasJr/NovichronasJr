@@ -1,7 +1,8 @@
 <div align="center">
 
-[![@NovichronasJr's Holopin board](https://holopin.me/novichronasjr)](https://holopin.io/@novichronasjr)
-
+<a href="https://komarev.com/ghpvc/?username=NovichronasJr">
+  <img src="https://komarev.com/ghpvc/?username=NovichronasJr&style=flat-square&color=blueviolet" alt="Profile views"/>
+</a>
 
 <br>
 <br>
